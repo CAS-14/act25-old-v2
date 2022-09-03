@@ -1,2 +1,4 @@
-# act25-old-v2
-ACT25 backup of the rounded corners era. Information is outdated, since it's a backup.
+# dynamite14.github.io / ACT25.com
+ACT25 HTML counterpart
+
+Viewable at www.act25.com
